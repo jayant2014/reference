@@ -124,6 +124,7 @@ $ git remote show <remote>
 
 ```
 $ git fetch <remote>
+```
 
 ### Checkout remote repository
 
@@ -141,6 +142,7 @@ $ git pull <remote> <branch>
 
 ```
 $ git push <remote> <branch>
+```
 
 ### Delete a branch from remote
 
