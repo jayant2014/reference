@@ -1,6 +1,6 @@
 # GIT Reference
 
-GIT Reference
+This reference sheet is for the free Udemy course https://www.udemy.com/course/getting-started-with-git 
 
 ## GIT Create
 
